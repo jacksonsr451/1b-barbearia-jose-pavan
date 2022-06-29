@@ -4,6 +4,8 @@ Publicação de materias para aulas de programação web, turma de pensamento co
 
 Professor: Jackson Severino da Rocha
 
+## [Link para ver como está ficando o projeto](https://jacksonsr451.github.io/1b-barbearia-jose-pavam/)
+
 ### Lista de aulas:
 
 * [Primeira Aula](AULA_1.md)
